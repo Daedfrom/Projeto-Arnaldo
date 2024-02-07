@@ -1,0 +1,12 @@
+C:\Users\Cliente SpaceTech\source\repos\Arnaldo\Arnaldo\obj\Debug\Arnaldo.csproj.AssemblyReference.cache
+C:\Users\Cliente SpaceTech\source\repos\Arnaldo\Arnaldo\obj\Debug\Arnaldo.csproj.CoreCompileInputs.cache
+C:\Users\Cliente SpaceTech\source\repos\Arnaldo\Arnaldo\bin\Debug\Arnaldo.exe.config
+C:\Users\Cliente SpaceTech\source\repos\Arnaldo\Arnaldo\bin\Debug\Arnaldo.exe
+C:\Users\Cliente SpaceTech\source\repos\Arnaldo\Arnaldo\bin\Debug\Arnaldo.pdb
+C:\Users\Cliente SpaceTech\source\repos\Arnaldo\Arnaldo\obj\Debug\Arnaldo.exe
+C:\Users\Cliente SpaceTech\source\repos\Arnaldo\Arnaldo\obj\Debug\Arnaldo.pdb
+C:\Users\Cliente SpaceTech\source\repos\Arnaldo\Arnaldo\obj\Debug\UserControl1.g.cs
+C:\Users\Cliente SpaceTech\source\repos\Arnaldo\Arnaldo\obj\Debug\Arnaldo_MarkupCompile.cache
+C:\Users\Cliente SpaceTech\source\repos\Arnaldo\Arnaldo\obj\Debug\Arnaldo_MarkupCompile.lref
+C:\Users\Cliente SpaceTech\source\repos\Arnaldo\Arnaldo\obj\Debug\UserControl1.baml
+C:\Users\Cliente SpaceTech\source\repos\Arnaldo\Arnaldo\obj\Debug\Arnaldo.g.resources
